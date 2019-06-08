@@ -18,7 +18,6 @@ end
 
 def return_a_value(phrase)
   phrase("Nice")
-  puts return_a_value
 
 end
 
