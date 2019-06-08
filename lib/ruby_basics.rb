@@ -11,7 +11,7 @@ def argue(as_is)
 
 end
 
-def greeting
+def greeting(expression = "Hi", name = "Bobby")
 
 end
 
