@@ -12,8 +12,7 @@ def argue(as_is)
 end
 
 def greeting(expression, name)
-
-  puts "Well, #{expression}#{name}"
+  greeting("Hello", "Joe")
 
 end
 
