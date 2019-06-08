@@ -12,6 +12,7 @@ def argue(as_is)
 end
 
 def greeting(expression = "Hi", name = "Bobby")
+  greeting("Hello", "Joe")
 
 end
 
