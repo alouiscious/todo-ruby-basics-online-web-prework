@@ -26,5 +26,5 @@ def last_evaluated_value(skill = "expert")
 end
 
 def pizza_party(topping = "cheese")
-  topping
+  topping("pepperoni")
 end
